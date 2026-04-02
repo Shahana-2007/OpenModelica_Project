@@ -31,3 +31,16 @@ This project is a PyQt6 desktop application used to launch an OpenModelica execu
 - model_files/
 - requirements.txt
 - README.md
+- ## Screenshots
+
+### Main UI
+![Main UI](main_ui.png)
+
+### Browse File
+![Browse File](browse_file.png)
+
+### Validation Error
+![Validation Error](validation_error.png)
+
+### Execution Output
+![Execution Output](execution_output.png)
