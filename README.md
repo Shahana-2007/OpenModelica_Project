@@ -46,3 +46,14 @@ This project is a PyQt6 desktop application used to launch an OpenModelica execu
 
 ### Execution Output
 ![Execution Output](screenshots/execution_output.png)
+
+## Known Issues
+- The OpenModelica model may show division-by-zero warnings depending on model parameters.
+- Some OpenModelica runtime DLL files may be required locally for the executable to run.
+
+## Future Improvements
+- Add dark/light mode toggle
+- Add drag-and-drop support for executable files
+- Add execution history
+- Add graphical display of simulation results
+- Add support for multiple OpenModelica models
