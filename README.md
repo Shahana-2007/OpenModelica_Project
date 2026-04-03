@@ -3,6 +3,12 @@
 ## Objective
 This project is a PyQt6 desktop application used to launch an OpenModelica executable with user-defined start time and stop time.
 
+This project is a PyQt6 desktop application used to launch an OpenModelica executable with user-defined start time and stop time.
+
+The application allows users to browse and select the compiled OpenModelica model executable, enter simulation start and stop times, validate the inputs, and run the model directly from the GUI.
+
+Direct executable available in the `launcher_exe` folder.
+
 ## Technologies Used
 - Python 3
 - PyQt6
@@ -57,3 +63,11 @@ This project is a PyQt6 desktop application used to launch an OpenModelica execu
 - Add execution history
 - Add graphical display of simulation results
 - Add support for multiple OpenModelica models
+  
+## Run Directly Using Executable
+
+If you do not want to run the Python code manually, you can use the executable version:
+
+1. Open the `launcher_exe` folder
+2. Download `main.exe`
+3. Double-click `main.exe` to launch the application
