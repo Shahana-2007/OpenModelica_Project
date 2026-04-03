@@ -71,3 +71,4 @@ If you do not want to run the Python code manually, you can use the executable v
 1. Open the `launcher_exe` folder
 2. Download `main.exe`
 3. Double-click `main.exe` to launch the application
+   
