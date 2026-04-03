@@ -72,3 +72,20 @@ If you do not want to run the Python code manually, you can use the executable v
 2. Download `main.exe`
 3. Double-click `main.exe` to launch the application
    
+ ## Important Note for Executable Users
+
+When downloading `main.exe`, your browser or Windows may show a warning because `.exe` files are not commonly downloaded.
+
+This is normal.
+
+To run the application:
+
+1. Download `main.exe`
+2. Keep the file if your browser shows a warning
+3. Double-click `main.exe`
+4. If Windows shows a security warning, click:
+
+   * More info
+   * Run anyway
+
+   
